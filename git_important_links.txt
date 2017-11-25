@@ -1,0 +1,7 @@
+https://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users
+github :
+https://github.com/satyampandey54/code
+http://guides.beanstalkapp.com/version-control/git-on-windows.html
+
+bitbucket :
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
